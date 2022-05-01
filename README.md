@@ -1,6 +1,7 @@
-# ECE 9069: Introduction to Hacking
+# Dirty Cow CVE-2016-5195 Presentation Notes
 
-## Dirty Cow CVE-2016-5195
+## For ECE 9069: Introduction to Hacking (Cybersecurity) course, during master's degree in Software Engg. at Western University, ON, Canada
+
 * It is a linux based vulnerability which existed since 2007 and got fully patched in 2017.
 * It is a vulnerability since kernel version 2.6.22 until patched.
 * It escalates privileges of the user by using race condition and copy-on-write mechanism.
